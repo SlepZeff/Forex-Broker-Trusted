@@ -5,6 +5,7 @@
       "backup": "unity",
       "status": true,
       "link": "https://ipsaya.com/hostinglokasi.php",
+      "privacy" : "https://github.com/",
       
       "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
       "admob_banner": "ca-app-pub-3940256099942544/6300978111",
@@ -29,8 +30,8 @@
    "More": [
     {
       "id": 1,
-      "title": "",
-      "image": "",
+      "title": "rating",
+      "image": "https://raw.githubusercontent.com/SlepZeff/Forex-Broker-Trusted/main/icon.png",
       "link": ""
     }
   ],
@@ -38,27 +39,67 @@
     {
       "id": 1,
       "name_category": "Crpto",
-      "image": "file:///android_asset/image/image1.png"
+      "image": "https://raw.githubusercontent.com/SlepZeff/Forex-Broker-Trusted/main/icon.png"
     },
     {
       "id": 2,
       "name_category": "Tips",
-      "image": "file:///android_asset/image/image2.webp"
+      "image": "https://raw.githubusercontent.com/SlepZeff/Forex-Broker-Trusted/main/icon.png"
     },
     {
       "id": 3,
       "name_category": "Signal Buy",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+      "image": "https://raw.githubusercontent.com/SlepZeff/Forex-Broker-Trusted/main/icon.png"
     }
   ],
   "Data": [
     {
       "id": 1,
       "name_category": "Tips",
-      "title": "Cara mengisi Form Data Safety",
-      "image": "file:///android_asset/image/guide1.jpg",
-      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
-      "link": "file:///android_asset/guide/guide1.html"
+      "title": "Winner: IG ",
+      "image": "https://raw.githubusercontent.com/SlepZeff/Forex-Broker-Trusted/main/icon.png",
+      "description": "Regulated and trusted across the globe, IG offers traders the ultimate package of excellent tradinge",
+      "link": "https://slepzeff.github.io/Forex-Broker-Trusted/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tips",
+      "title": "Runner-Up: Saxo Bank",
+      "image": "https://raw.githubusercontent.com/SlepZeff/Forex-Broker-Trusted/main/icon.png",
+      "description": "For traders who can afford the steep $2,000 minimum deposit (GBP 500 for the U.K.), Saxo Bank offers fair pricing, excellent trading platforms, phe",
+      "link": "https://slepzeff.github.io/Forex-Broker-Trusted/guide2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Tips",
+      "title": "Podium finisher: CMC Markets",
+      "image": "https://raw.githubusercontent.com/SlepZeff/Forex-Broker-Trusted/main/icon.png",
+      "description": "CMC Markets is a globally-trusted broker that delivers a terrific offering for traders thanks to notably low pricing, nearly 10,000 tradeable instruments, and the Next Generation trading platform",
+      "link": "https://slepzeff.github.io/Forex-Broker-Trusted/guide3.html"
+    },
+    {
+      "id": 1,
+      "name_category": "Tips",
+      "title": "Winner: IG ",
+      "image": "https://raw.githubusercontent.com/SlepZeff/Forex-Broker-Trusted/main/icon.png",
+      "description": "Regulated and trusted across the globe, IG offers traders the ultimate package of excellent tradinge",
+      "link": "https://slepzeff.github.io/Forex-Broker-Trusted/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tips",
+      "title": "Runner-Up: Saxo Bank",
+      "image": "https://raw.githubusercontent.com/SlepZeff/Forex-Broker-Trusted/main/icon.png",
+      "description": "For traders who can afford the steep $2,000 minimum deposit (GBP 500 for the U.K.), Saxo Bank offers fair pricing, excellent trading platforms, phe",
+      "link": "https://slepzeff.github.io/Forex-Broker-Trusted/guide2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Tips",
+      "title": "Podium finisher: CMC Markets",
+      "image": "https://raw.githubusercontent.com/SlepZeff/Forex-Broker-Trusted/main/icon.png",
+      "description": "CMC Markets is a globally-trusted broker that delivers a terrific offering for traders thanks to notably low pricing, nearly 10,000 tradeable instruments, and the Next Generation trading platform",
+      "link": "https://slepzeff.github.io/Forex-Broker-Trusted/guide3.html"
     }
   ]
 }
